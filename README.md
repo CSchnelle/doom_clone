@@ -1,5 +1,5 @@
 # doom_clone
-this is a (WIP) Doom clone: this project serves the purpose of learning raycasting and creating a 3D first person FOV. 
+this is a (WIP) Doom clone in Python: this project serves the purpose of learning raycasting and creating a 3D first person FOV. 
 
 
 TODO:
